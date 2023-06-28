@@ -21,3 +21,18 @@ Key goals and features of the framework include:
 
 By creating a Python framework that combines the functionalities of both backend and frontend development, We aims to simplify the development process, reduce the reliance on external tools, and provide a seamless and cohesive environment for building web applications.
 
+## Road Map
+
+**Short-term goals:**
+
+* **Release a first version of the framework that supports basic frontend and backend functionality.**
+* **Create a community around the framework and start building a user base.**
+* **Gather feedback from users and improve the framework based on their feedback.**
+* **Release the framework as an open source project.**
+
+
+**Long-term goals:**
+
+* **Add support for more frontend libraries and database integrations.**
+* **Add more features, such as routing, authentication, session management, and data modeling.**
+* **Make the framework more scalable and performant.**
